@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://quail-saved-arachnid.ngrok-free.app/Service.svc?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "messageContract": true,
+    "namespaceMappings": [
+      "*, SoapConsume"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "None"
+  }
+}
